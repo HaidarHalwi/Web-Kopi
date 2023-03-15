@@ -14,7 +14,7 @@ h1{
 }
 
 #Kotak{
-	width: 1000px;
+	width: 1400px;
 	margin: auto;
 }
 
@@ -23,7 +23,43 @@ p{
 	font-family: arial;
 	font-weight: bold;
 	text-align: center;
+	padding: 10px;
+	height: 20px;
 	border: #e5dfeb dashed 1px;
 	background-color: #282729;
 	word-spacing: 2px;
+}
+
+#Kotak2{
+	width: 1400px;
+	margin: auto;
+}
+
+pre{
+	color: gold;
+	font-size: 30px;
+	text-align: left;
+}
+
+
+h3{
+	color: white;
+	font-size: 20px;
+	text-align: center;
+}
+
+a{
+	color: gold;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 30px;
+	text-decoration: none;
+	border: #e5dfeb dashed 1px;
+	background-color: #282729;
+}
+
+#back{
+	width: 500px;
+	margin: auto;
+	margin-top: 500px;
 }

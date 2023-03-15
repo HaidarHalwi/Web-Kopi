@@ -1,0 +1,37 @@
+body{
+	background-color: black;
+}
+
+p{
+	color: gold;
+	font-size: 70px;
+	font-weight: bold;
+	text-align: center;
+}
+
+h1{
+	color: gold;
+	font-size: 60px;
+	text-align: center;
+}
+
+a{
+	color: gold;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 25px;
+	text-decoration: none;
+	border: #e5dfeb dashed 1px;
+	background-color: #282729;
+}
+
+#KotakKotak{
+	width: 500px;
+	margin: auto;
+}
+
+h3{
+	color: white;
+	font-size: 20px;
+	text-align: center;
+}
